@@ -500,8 +500,10 @@ a{
 .info-trind{
     margin-top: 20px;
     font-size: 21px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 300px;
+    font-family: "Lobster", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #007bff;
 }
 .info-trind p:hover{
     color:#e8482b ;
@@ -854,8 +856,10 @@ a{
 .info-like{
     margin-top: 20px;
     font-size: 21px;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 300px;
+    font-family: "Lobster", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: #007bff;
 }
 .info-like p:hover{
     color:#e8482b ;
