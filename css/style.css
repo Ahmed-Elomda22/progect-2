@@ -888,6 +888,9 @@ a{
 .p-news{
     margin-top: 500px;
 }
+.p-news p{
+    margin-bottom: 0.4rem;
+}
 .p-news >:first-child{
     opacity: 0.5;
 }
